@@ -1,0 +1,30 @@
+#title {
+    margin: 0 auto;
+    width: 500px;
+      text-align: center;
+      color: red;
+      background-color:hsl(150,50%,50%);
+      margin: 20px  20px;
+  }
+  h2{
+    color:blue;
+    background-color: skyblue;
+  }
+  table{
+    border: solid purple;
+    margin: 50px 100px;
+    border-collapse: collapse;
+  }
+  td{
+    border-right: solid;
+    padding:5px;
+    font-family:  "Lucida Console", Courier, monospace;
+    color:brown;
+  }
+  table tr{
+    border-bottom:1px solid black;
+  }
+  table thead{
+    font-weight: bold;
+  }
+  
